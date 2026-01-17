@@ -1,0 +1,9 @@
+{
+  "name": "Copy of OrbiTrip Georgia  admin",
+  "description": "admin panel",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
